@@ -1,6 +1,6 @@
 These files provide MATLAB code and data in connection with the article 
-Constructing transient amplifiers for death-Birth updating: A case study of cubic and quartic regular graphs 
-by Hendrik Richter
+
+Richter, H. Spectral analysis of transient amplifiers for death–birth updating constructed from regular graphs. J. Math. Biol. 82, 61 (2021). https://doi.org/10.1007/s00285-021-01609-y
 
 The mat-files Trans_XX_Y.mat are the adjacency matrices of the amplifiers constructors of Y-regular graphs with size XX.
 
